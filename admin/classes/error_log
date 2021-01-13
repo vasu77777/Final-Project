@@ -1,0 +1,18 @@
+[08-Jan-2021 07:40:46 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:40:46 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:40:46 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
+[08-Jan-2021 07:41:16 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:41:16 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:41:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
+[08-Jan-2021 07:41:17 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:41:17 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:41:17 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
+[08-Jan-2021 07:41:17 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:41:17 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:41:17 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
+[08-Jan-2021 07:41:21 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:41:21 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:41:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
+[08-Jan-2021 07:41:27 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/codegwvw/public_html/public/ecom3/admin/classes/Database.php on line 11
+[08-Jan-2021 07:41:27 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 34
+[08-Jan-2021 07:41:27 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/codegwvw/public_html/public/ecom3/admin/classes/Credentials.php on line 35
